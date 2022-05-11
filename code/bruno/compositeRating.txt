@@ -1,0 +1,4 @@
+(array([0, 0, 0, ..., 0, 0, 0]), Index(['NR', 'B', 'BBB-', 'AAA', 'AA-', 'BBB+', 'A-', 'A', 'BBB', 'A+', 'AA+',
+       'AA', 'BB', 'BB+', 'BB-', 'B+', 'B-', 'DDD', 'CCC+', 'CCC-', 'CC+',
+       'CCC', 'CC', 'DD+', 'C+', 'DDD+', 'D', 'CC-', 'C'],
+      dtype='object'))
